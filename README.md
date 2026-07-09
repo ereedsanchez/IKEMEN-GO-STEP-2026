@@ -4,7 +4,7 @@ Ikemen Go
 
 Videos: 
 
-[Add Characters](https://youtu.be/q1HtgBqiJk0?si=DSiuYtyJ7Yg9pmul) \
+[Add Characters](https://youtu.be/q1HtgBqiJk0?si=DSiuYtyJ7Yg9pmul) 
 
 [Add Columns and Rows](https://youtu.be/AvjroSvXKWk) \
 
