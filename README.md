@@ -13,4 +13,7 @@ Videos:
 
 [![Ikemen Go: Add Characters](https://img.youtube.com/vi/AvjroSvXKWk/0.jpg)](https://www.youtube.com/watch?v=AvjroSvXKWk)
 
-[Big Motif Adds Preset Columns Rows And Their Size](https://youtu.be/_9DoX4LWP3M) 
+[Big Motif Adds Preset Columns Rows And Their Size](https://youtu.be/_9DoX4LWP3M) \
+/
+
+[![Ikemen Go: Add Characters](https://img.youtube.com/vi/_9DoX4LWP3M/0.jpg)](https://www.youtube.com/watch?v=_9DoX4LWP3M)
